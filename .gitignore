@@ -1,0 +1,7 @@
+api/node_modules/
+desktop/node_modules/
+web/node_modules/
+api/package-lock.json
+api/yarn.lock
+desktop/yarn.lock
+web/yarn.lock
