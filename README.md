@@ -17,3 +17,9 @@
   4. Na pasta api execute yarn dev pra iniciar o servidor de desenvolvimento;
   5. Na pasta web execute yarn start pra iniciar o servidor de desenvolvimento;
   5. Na pasta desktop execute yarn start pra iniciar a aplicação;
+
+# 📸 Pré-visualização
+
+  ![Sign-up](https://github.com/pablo-medeiros/simple-chat/blob/master/images/sign_up.png?raw=true)
+  ![Sign-in](https://github.com/pablo-medeiros/simple-chat/blob/master/images/sign_in.png?raw=true)
+  ![Chat](https://github.com/pablo-medeiros/simple-chat/blob/master/images/chat.png?raw=true)

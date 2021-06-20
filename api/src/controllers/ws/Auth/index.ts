@@ -4,6 +4,7 @@ import Encrypt from "src/Encrypt";
 import Chat from '../Chat';
 
 export default (socket: Socket) => {
+  console.log(`New connection: ${socket.id}`)
   const register = () => {
     socket.on('auth', listen);
   }
