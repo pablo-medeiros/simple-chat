@@ -22,4 +22,3 @@
 
   ![Sign-up](https://github.com/pablo-medeiros/simple-chat/blob/master/images/sign_up.png?raw=true)
   ![Sign-in](https://github.com/pablo-medeiros/simple-chat/blob/master/images/sign_in.png?raw=true)
-  ![Chat](https://github.com/pablo-medeiros/simple-chat/blob/master/images/chat.png?raw=true)
